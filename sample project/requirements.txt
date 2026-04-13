@@ -1,0 +1,12 @@
+flask
+streamlit
+opencv-python
+ultralytics
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+requests
+sqlite3
+smtplib
